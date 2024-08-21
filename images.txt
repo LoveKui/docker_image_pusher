@@ -13,3 +13,5 @@ thinkwhere/geoserver:2.22.1
 thinkwhere/geoserver:2.12.5
 kartoza/geoserver:2.25.2
 
+mongo:latest
+
