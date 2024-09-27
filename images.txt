@@ -17,3 +17,5 @@ mongo:latest
 minio/minio:latest
 arangodb
 
+
+
