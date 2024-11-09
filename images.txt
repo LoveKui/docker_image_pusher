@@ -17,4 +17,5 @@ mongo:latest
 minio/minio:latest
 arangodb
 ghcr.io/paperless-ngx/paperless-ngx:latest
+redis:alpine
 
