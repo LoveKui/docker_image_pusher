@@ -16,5 +16,5 @@ kartoza/geoserver:2.25.2
 mongo:latest
 minio/minio:latest
 arangodb
-ghcr.io/jfcherng/paperless-ngx:latest
+ghcr.io/paperless-ngx/paperless-ngx:latest
 
