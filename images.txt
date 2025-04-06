@@ -21,4 +21,5 @@ ghcr.io/paperless-ngx/paperless-ngx:latest
 redis:alpine
 postgres:13
 nickblah/postgis:15.7-postgis-3.4
+docker.osgeo.org/geoserver:2.26.2
 
