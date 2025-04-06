@@ -9,11 +9,11 @@ nginx:latest
 #portainer
 portainer/portainer:latest
 #geoserver
-thinkwhere/geoserver:2.22.1
-thinkwhere/geoserver:2.12.5
-kartoza/geoserver:2.25.2
-thinkwhere/geoserver:2.25.2-amd64
-
+#thinkwhere/geoserver:2.22.1
+#thinkwhere/geoserver:2.12.5
+#kartoza/geoserver:2.25.2
+#thinkwhere/geoserver:2.25.2-amd64
+docker.osgeo.org/geoserver:2.26.2
 mongo:latest
 minio/minio:latest
 arangodb
@@ -21,5 +21,5 @@ ghcr.io/paperless-ngx/paperless-ngx:latest
 redis:alpine
 postgres:13
 nickblah/postgis:15.7-postgis-3.4
-docker.osgeo.org/geoserver:2.26.2
+
 
