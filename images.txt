@@ -3,7 +3,7 @@
 nickblah/postgis:12.16-postgis-3.3
 elestio/pgadmin
 #jdk
-openjdk:8-jre
+#openjdk:8-jre
 #nginx
 nginx:latest
 #portainer
