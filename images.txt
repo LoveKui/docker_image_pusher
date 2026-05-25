@@ -22,4 +22,6 @@ redis:alpine
 postgres:13
 nickblah/postgis:15.7-postgis-3.4
 
+certbot/certbot:latest
+
 
